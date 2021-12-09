@@ -1,0 +1,1 @@
+# Cadastro de email com senha e autenticação. Utilizando o Django :snake:
